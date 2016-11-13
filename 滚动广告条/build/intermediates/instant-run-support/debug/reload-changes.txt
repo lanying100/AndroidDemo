@@ -1,0 +1,2 @@
+CHANGED,D:\Program Files\Android\TestProject\滚动广告条\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\lanying\scrolladbar\MainActivity$override.class
+CHANGED,D:\Program Files\Android\TestProject\滚动广告条\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="17"
+    density="xhdpi"
+    format="7"
+    timestamp="825964598936773" >
+
+    <task
+        name="javac"
+        duration="147" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="18" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="D:\Program Files\Android\TestProject\滚动广告条\build\outputs\apk\滚动广告条-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="825964598936773" >
+        <artifact
+            location="D:\Program Files\Android\TestProject\滚动广告条\build\outputs\apk\滚动广告条-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

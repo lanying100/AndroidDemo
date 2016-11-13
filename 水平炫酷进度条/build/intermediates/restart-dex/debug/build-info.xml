@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="925471274661006" >
+
+    <task
+        name="javac"
+        duration="1263" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="293" />
+    <task
+        name="verifier"
+        duration="117" />
+
+    <artifact
+        location="D:\Program Files\Android\TestProject\水平炫酷进度条\build\outputs\apk\水平炫酷进度条-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="925471274661006" >
+        <artifact
+            location="D:\Program Files\Android\TestProject\水平炫酷进度条\build\outputs\apk\水平炫酷进度条-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
