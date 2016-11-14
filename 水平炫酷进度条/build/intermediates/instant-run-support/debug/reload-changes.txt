@@ -1,0 +1,2 @@
+CHANGED,D:\Program Files\Android\TestProject\水平炫酷进度条\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\Program Files\Android\TestProject\水平炫酷进度条\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\lanying\coolhorizontalprogressbarwithprogress\customview\CoolRoundProgressBarWithProgress$override.class

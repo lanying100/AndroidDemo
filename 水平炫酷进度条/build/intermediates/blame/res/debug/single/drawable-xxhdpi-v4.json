@@ -12,12 +12,12 @@
         "source": "D:\\Program Files\\Android\\TestProject\\水平炫酷进度条\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\Program Files\\Android\\TestProject\\水平炫酷进度条\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
-        "source": "D:\\Program Files\\Android\\TestProject\\水平炫酷进度条\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
         "merged": "D:\\Program Files\\Android\\TestProject\\水平炫酷进度条\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
         "source": "D:\\Program Files\\Android\\TestProject\\水平炫酷进度条\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Program Files\\Android\\TestProject\\水平炫酷进度条\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\Program Files\\Android\\TestProject\\水平炫酷进度条\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "D:\\Program Files\\Android\\TestProject\\水平炫酷进度条\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",

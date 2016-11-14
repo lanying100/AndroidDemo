@@ -26,15 +26,15 @@ public class CoolHorizontalProgressBarWithProgress extends ProgressBar{
     private static final int DEFAULT_TEXT_SIZE = 15;//sp
     private static final int DEFAULT_TEXT_OFFSET = 10;//dp
 
-    private int mReachColor = DEFAULT_REACH_COLOR;
-    private int mReachHeight = dp2px(DEFAULT_REACH_HEIGHT);
-    private int mUnReachColor = DEFAULT_UNREACH_COLOR;
-    private int mUnReachHeight = dp2px(DEFAULT_UNREACH_HEIGHT);
-    private int mTextColor = DEFAULT_TEXT_COLOR;
-    private int mTextSize = sp2px(DEFAULT_TEXT_SIZE);
-    private int mTextOffset = dp2px(DEFAULT_TEXT_OFFSET);
+    protected int mReachColor = DEFAULT_REACH_COLOR;
+    protected int mReachHeight = dp2px(DEFAULT_REACH_HEIGHT);
+    protected int mUnReachColor = DEFAULT_UNREACH_COLOR;
+    protected int mUnReachHeight = dp2px(DEFAULT_UNREACH_HEIGHT);
+    protected int mTextColor = DEFAULT_TEXT_COLOR;
+    protected int mTextSize = sp2px(DEFAULT_TEXT_SIZE);
+    protected int mTextOffset = dp2px(DEFAULT_TEXT_OFFSET);
 
-    private Paint mPaint = new Paint();
+    protected Paint mPaint = new Paint();
     private int mRealWidth;// progressbar 去掉左右边距后的宽度
 
 
@@ -147,13 +147,13 @@ public class CoolHorizontalProgressBarWithProgress extends ProgressBar{
 
     }
 
-    private int dp2px(int dpVal){
+    protected int dp2px(int dpVal){
         return (int) TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP,dpVal,
                 getResources().getDisplayMetrics());// 根据“显示度量”来得到屏幕的分辨率，从而进行dp-->px的转换
     }
 
 
-    private int sp2px(int spVal){
+    protected int sp2px(int spVal){
         return (int) TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_SP,spVal,
                 getResources().getDisplayMetrics());// 根据“显示度量”来得到屏幕的分辨率，从而进行sp-->px的转换
     }
