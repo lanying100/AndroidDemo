@@ -68,6 +68,7 @@ public class MainActivity extends AppCompatActivity {
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
+                    // 不可以直接在子线程中更新Notification进度条的进度，木有效果
                     mHandler.sendEmptyMessage(progress+=10);
 
                 }
